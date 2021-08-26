@@ -155,6 +155,7 @@ button {
   background-color: #1f2633;
   z-index: 1;
   color: #ecf2f8;
+  display: none;
 }
 
 .socials p {
